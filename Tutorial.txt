@@ -1,0 +1,15 @@
+# CARA PENGGUNAAN #
+
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install php
+$ cd /sdcard
+$ git clone https://github.com/oxlynx/fbbrute
+$ cd fbbrute
+$ ls
+$ php facebook.php (MASUKKAN ID KORBAN)
+$ password.txt
+
+## SUPAYA LEBIH EFEKTIF, EDIT WORDLIST ATAU BUAT SENDIRI ##
+
+Creator : OxLynx
